@@ -19,9 +19,15 @@ Easily import songs from a CSV file into a new Spotify playlist using the Spotif
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/brokhnrt2562/csv-to-spotify-playlist.git
+cd ~
+git clone https://github.com/broknhrt2562/csv-to-spotify-playlist.git
 cd csv-to-spotify-playlist
 ```
+
+Cloning into 'csv-to-spotify-playlist'...
+remote: Enumerating objects: 3, done.
+...
+Receiving objects: 100% (3/3), done.
 
 ---
 
