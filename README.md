@@ -112,3 +112,6 @@ MIT
 ## Credits
 - [Spotipy](https://spotipy.readthedocs.io/)
 - [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications) 
+```
+
+</rewritten_file>
